@@ -14,8 +14,8 @@ Remoção: Remover o valor 20 (nó com dois filhos)
      6    18
     / \   / \
    3   7 16  20
-           /
-          4
+        /
+       4
 
 Remoção: Remover o valor 16 (nó com dois filhos)
 
