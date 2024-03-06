@@ -5,7 +5,7 @@
    /  \    /  \
   7   30  81  97
  / \        \
-4   8       100
+4   8       100 
 
 Remoção: Remover o valor 20 (nó com dois filhos)
 
